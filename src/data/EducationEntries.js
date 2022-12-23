@@ -1,7 +1,7 @@
 export const educationEntries = [
     {
         title: "Red River College Polytechnic",
-        subtitle: "Business Information Technology",
+        subtitle: "Business Information Technology (Honours)",
         startDate: "September 2020",
         endDate: "December 2022",
         bulletPoints: [
