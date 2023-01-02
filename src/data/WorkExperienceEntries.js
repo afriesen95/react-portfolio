@@ -1,7 +1,14 @@
 export const workExperienceEntries = [
     {
-        title: "Johnston Group",
-        subtitle: ".NET Developer Co-Op",
+        title: "Johnston Group Inc.",
+        subtitle: "Full Stack Developer",
+        startDate: "January 2023",
+        endDate: "Present",
+        bulletPoints: [],
+    },
+    {
+        title: "Johnston Group Inc.",
+        subtitle: ".NET Developer (Co-Op)",
         startDate: "January 2022",
         endDate: "August 2022",
         bulletPoints: [
