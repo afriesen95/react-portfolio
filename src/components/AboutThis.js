@@ -1,21 +1,7 @@
 import React from "react";
-import styled from "styled-components";
 import { AnchorTitle, CenteredDiv, CustomDiv } from "../styles/CustomStyles";
-import { FaReact, FaNpm } from "react-icons/fa";
 
-const IconBox = styled.div`
-    display: flex;
-    padding: 20px 0px;
-    width: 100%;
-    justify-content: center;
-
-    * {
-        cursor: default !important;
-        padding: 0px 15px;
-    }
-`;
-
-const AboutThis = ({ iconSize = 80 }) => {
+const AboutThis = () => {
     return (
         <section>
             <h1>
