@@ -1,9 +1,16 @@
 export const workExperienceEntries = [
     {
         title: "Johnston Group Inc.",
-        subtitle: "Full Stack Developer",
-        startDate: "January 2023",
+        subtitle: "Developer II",
+        startDate: "October 2023",
         endDate: "Present",
+        bulletPoints: [],
+    },
+    {
+        title: "Johnston Group Inc.",
+        subtitle: "Developer I",
+        startDate: "January 2023",
+        endDate: "September 2023",
         bulletPoints: [],
     },
     {
