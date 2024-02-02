@@ -75,11 +75,6 @@ const NavigationMenu = () => {
                     </Link>
                 </NavListItem>
                 <NavListItem>
-                    <Link to="critters">
-                        <FullLengthLink>ACNH Critter Info</FullLengthLink>
-                    </Link>
-                </NavListItem>
-                <NavListItem>
                     <Link to="passups">
                         <FullLengthLink>
                             Winnipeg Transit Pass-Ups
